@@ -29,5 +29,5 @@ int main() {
     EXP_RAND(45, 60, 2, 3);
     EXP_RAND(45, 75, 2, 3);
 
-    EXP_ROOM(30, 2, 3);
+    EXP_ROOM(30, 2, 4);
 }
