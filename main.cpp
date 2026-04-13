@@ -8,7 +8,7 @@ int main() {
     // EXP_LEARNING({0.0, 0.0}, {1.0, 1.0}, 1000);
     
     for (int i = 16; i <= 35; i++)
-        EXP_ADD1(i, 2, 3);
+        EXP_ADD1(i, 2, 4);
 
     EXP_RAND(25, 5, 2, 3);
     EXP_RAND(25, 10, 2, 3);
